@@ -1,0 +1,749 @@
+<!-- Services -->
+    <section class="mb-20">
+      <div>
+        <!-- Major Services -->
+        <div
+          class="container mt-20 flex flex-col items-center justify-center gap-0 md:mt-4 md:flex-row"
+        >
+          <!-- Card Left -->
+          <div
+            class="relative h-fit max-w-sm rounded-md bg-darklight text-white md:mx-4"
+          >
+            <figure
+              class="absolute -top-16 left-0 right-0 mx-auto h-32 w-fit px-4"
+            >
+              <img
+                class="h-full w-full object-cover"
+                src="./imgs/services/tires.png"
+              />
+            </figure>
+
+            <div class="p-6 pt-20">
+              <h1
+                class="w-fit rounded-md bg-dark p-2 text-xl font-semibold capitalize text-accent lg:text-2xl"
+              >
+                Tire Services
+              </h1>
+
+              <p class="mt-4 text-zinc-400">
+                Drive safely with our comprehensive tire services: expert
+                installation, balancing, and stretching for performance and
+                style.
+              </p>
+
+              <h2 class="mt-4 text-2xl font-semibold sm:text-3xl">
+                $150 <span class="text-base font-medium">/Service</span>
+              </h2>
+
+              <p class="mt-1 text-zinc-400">Starting At</p>
+            </div>
+
+            <hr class="border-dark" />
+
+            <div class="p-6">
+              <h1 class="text-lg font-medium capitalize lg:text-xl">
+                What’s included:
+              </h1>
+
+              <div class="mt-8 space-y-4 text-sm text-zinc-400">
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Tire mounting including stretch</span>
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Accurate wheel balancing</span>
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Wheel rotation and repairs</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card Middle -->
+          <div
+            class="relative my-28 max-w-sm rounded-md bg-darklight text-white md:mx-4"
+          >
+            <figure
+              class="absolute -top-16 left-0 right-0 mx-auto h-32 w-fit px-4"
+            >
+              <img
+                class="h-full w-full object-cover"
+                src="./imgs/services/engine.png"
+              />
+            </figure>
+
+            <div class="p-6 pt-20">
+              <h1
+                class="w-fit rounded-md bg-dark p-2 text-xl font-bold capitalize lg:text-2xl"
+              >
+                Engine Rebuilds
+              </h1>
+
+              <p class="mt-4 text-zinc-400">
+                Revitalize your engine with our expert rebuild service,
+                restoring peak performance and reliability to keep you on the
+                road longer.
+              </p>
+
+              <h2 class="mt-4 text-2xl font-semibold sm:text-3xl">
+                Custom Quote <span class="text-base font-medium">/Build</span>
+              </h2>
+
+              <p class="mt-1 text-zinc-400">Pricing Varies</p>
+
+              <button
+                class="bg- mt-6 w-full transform rounded-md bg-accent px-4 py-2 capitalize text-white transition-colors duration-300 hover:bg-accent"
+              >
+                Get A Quote
+              </button>
+            </div>
+
+            <hr class="border-dark" />
+
+            <div class="p-6">
+              <h1 class="text-lg font-medium capitalize lg:text-xl">
+                What’s included:
+              </h1>
+
+              <div class="mt-8 space-y-4 text-sm text-zinc-400">
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4"
+                    >Tailored parts selection and sourcing</span
+                  >
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Precision engine assembly</span>
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Comprehensive testing </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card Right -->
+          <div
+            class="relative h-fit max-w-sm rounded-md bg-darklight text-white md:mx-4"
+          >
+            <figure
+              class="absolute -top-16 left-0 right-0 mx-auto h-32 w-fit px-4"
+            >
+              <img
+                class="h-full w-full object-cover"
+                src="./imgs/services/oilfilter.png"
+              />
+            </figure>
+
+            <div class="p-6 pt-20">
+              <h1
+                class="w-fit bg-dark p-2 text-xl font-semibold capitalize text-accent lg:text-2xl"
+              >
+                Oil & Filter Change
+              </h1>
+
+              <p class="mt-4 text-zinc-400">
+                Keep your engine running smoothly with our quick and reliable
+                oil change service, using only premium oils and filters.
+              </p>
+
+              <h2 class="mt-4 text-2xl font-semibold sm:text-3xl">
+                $75 <span class="text-base font-medium">/Oil Change</span>
+              </h2>
+
+              <p class="mt-1 text-zinc-400">Starting At</p>
+            </div>
+
+            <hr class="border-dark" />
+
+            <div class="p-6">
+              <h1 class="text-lg font-medium capitalize lg:text-xl">
+                What’s included:
+              </h1>
+
+              <div class="mt-8 space-y-4 text-sm text-zinc-400">
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Synthetic or regular oil</span>
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Quality oil filter replacement</span>
+                </div>
+
+                <div class="flex items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 text-accent"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+
+                  <span class="mx-4">Full vehicle inspection</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<!-- Reviews -->
+    <section class="bg-light py-32">
+      <div class="container flex items-center justify-center gap-8">
+        <div class="my-auto basis-4/12">
+          <h2 class="text-xs font-bold text-accent lg:text-sm">TESTIMONIALS</h2>
+          <h1 class="mb-4 mt-2 text-2xl font-bold text-black md:text-4xl">
+            What Our Clients Say
+          </h1>
+
+          <p class="mb-12 text-sm text-zinc-400">
+            knowledge, expertise, advices & confidence
+          </p>
+
+          <button
+            class="rounded-full bg-rose-200 px-5 py-3 text-sm font-semibold text-accent transition duration-200 hover:bg-rose-300"
+          >
+            Leave us a review ›
+          </button>
+        </div>
+
+        <!-- Review 1 -->
+        <div class="h-fit basis-3/12 rounded-lg bg-white p-8 shadow-lg">
+          <span class="flex gap-1">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              viewBox="0 0 48 48"
+              class="w-5"
+            >
+              <g fill="none">
+                <path
+                  d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                  fill="#f69e0b"
+                ></path>
+              </g>
+            </svg>
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              viewBox="0 0 48 48"
+              class="w-5"
+            >
+              <g fill="none">
+                <path
+                  d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                  fill="#f69e0b"
+                ></path>
+              </g>
+            </svg>
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              viewBox="0 0 48 48"
+              class="w-5"
+            >
+              <g fill="none">
+                <path
+                  d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                  fill="#f69e0b"
+                ></path>
+              </g>
+            </svg>
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              viewBox="0 0 48 48"
+              class="w-5"
+            >
+              <g fill="none">
+                <path
+                  d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                  fill="#f69e0b"
+                ></path>
+              </g>
+            </svg>
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              viewBox="0 0 48 48"
+              class="w-5"
+            >
+              <g fill="none">
+                <path
+                  d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                  fill="#f69e0b"
+                ></path>
+              </g>
+            </svg>
+          </span>
+
+          <p class="my-6 text-zinc-400">
+            I have always had a positive experience dealing with Rolan. He is
+            helpful and is very knowledgeable. I highly recommend his shop for
+            your automotive needs.
+          </p>
+
+          <div class="flex items-center">
+            <figure class="mr-4 h-8 w-8">
+              <img
+                class="h-full w-full rounded-full object-cover"
+                src="./imgs/reviewers/gabriella.png"
+                alt=""
+              />
+            </figure>
+
+            <p class="font-semibold text-black">
+              Gabriella
+              <span class="mx-2 font-normal text-zinc-400">|</span>
+              <span class="text-sm text-accent">Local Guide</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="basis-3/12">
+          <!-- Review 2 -->
+          <div class="mb-6 rounded-lg bg-white p-8 shadow-lg">
+            <span class="flex gap-1">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+            </span>
+
+            <p class="my-6 text-zinc-400">
+              Was looking for a trustworthy mechanic and this shop was
+              recommended. They took care of my car and showed me exactly what
+              was wrong with it and was upfront about pricing. Very
+              knowledgeable and would definitely recommend.
+            </p>
+
+            <div class="flex items-center">
+              <figure class="mr-4 h-8 w-8">
+                <img
+                  class="h-full w-full rounded-full object-cover"
+                  src="./imgs/reviewers/charles.png"
+                  alt=""
+                />
+              </figure>
+
+              <p class="font-semibold text-black">
+                Charles
+                <span class="mx-2 font-normal text-zinc-400">|</span>
+                <span class="text-sm text-accent">Customer</span>
+              </p>
+            </div>
+          </div>
+
+          <!-- Review 3 -->
+          <div class="rounded-lg bg-white p-8 shadow-lg">
+            <span class="flex gap-1">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 48 48"
+                class="w-5"
+              >
+                <g fill="none">
+                  <path
+                    d="M21.803 6.085c.899-1.82 3.495-1.82 4.394 0l4.852 9.832l10.85 1.577c2.01.292 2.813 2.762 1.358 4.179l-7.85 7.653l1.853 10.806c.343 2.002-1.758 3.528-3.555 2.583L24 37.613l-9.705 5.102c-1.797.945-3.898-.581-3.555-2.583l1.854-10.806l-7.851-7.653c-1.455-1.417-.652-3.887 1.357-4.179l10.85-1.577l4.853-9.832z"
+                    fill="#f69e0b"
+                  ></path>
+                </g>
+              </svg>
+            </span>
+
+            <p class="my-6 text-zinc-400">
+              Been coming to this shop for a little over 3 years for my Toyota
+              Mr2 and bmw m3. They take care of your car and they get the job
+              done! Strongly recommend!
+            </p>
+
+            <div class="flex items-center">
+              <figure class="mr-4 h-8 w-8">
+                <img
+                  class="h-full w-full rounded-full object-cover"
+                  src="./imgs/reviewers/stanceform.png"
+                  alt=""
+                />
+              </figure>
+
+              <p class="font-semibold text-black">
+                StanceForm Inc.
+                <span class="mx-2 font-normal text-zinc-400">|</span>
+                <span class="text-sm text-accent">Social Media</span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Info -->
+    <section class="px-20 py-32">
+      <div class="flex gap-24">
+        <!-- Heading -->
+        <div class="my-auto basis-4/12">
+          <h2 class="text-xs font-bold text-accent lg:text-sm">CONTACT US</h2>
+          <h1 class="mb-4 mt-2 text-2xl font-bold text-white md:text-4xl">
+            Visit Our Shop Today
+          </h1>
+
+          <p class="mb-8 max-w-sm text-sm text-zinc-400">
+            Need a question answered or want to know more about our services?
+            Give us a call or visit our shop today!
+          </p>
+
+          <div class="flex w-fit">
+            <!-- Instagram -->
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="35"
+              height="35"
+              viewBox="5 5 55 55"
+              fill="white"
+              class="mr-2 opacity-70"
+            >
+              <path
+                d="M 21.580078 7 C 13.541078 7 7 13.544938 7 21.585938 L 7 42.417969 C 7 50.457969 13.544938 57 21.585938 57 L 42.417969 57 C 50.457969 57 57 50.455062 57 42.414062 L 57 21.580078 C 57 13.541078 50.455062 7 42.414062 7 L 21.580078 7 z M 47 15 C 48.104 15 49 15.896 49 17 C 49 18.104 48.104 19 47 19 C 45.896 19 45 18.104 45 17 C 45 15.896 45.896 15 47 15 z M 32 19 C 39.17 19 45 24.83 45 32 C 45 39.17 39.169 45 32 45 C 24.83 45 19 39.169 19 32 C 19 24.831 24.83 19 32 19 z M 32 23 C 27.029 23 23 27.029 23 32 C 23 36.971 27.029 41 32 41 C 36.971 41 41 36.971 41 32 C 41 27.029 36.971 23 32 23 z"
+              ></path>
+            </svg>
+
+            <!-- Google -->
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="35"
+              height="35"
+              viewBox="0 0 50 50"
+              fill="white"
+              class="opacity-70"
+            >
+              <path
+                d="M 25.996094 48 C 13.3125 48 2.992188 37.683594 2.992188 25 C 2.992188 12.316406 13.3125 2 25.996094 2 C 31.742188 2 37.242188 4.128906 41.488281 7.996094 L 42.261719 8.703125 L 34.675781 16.289063 L 33.972656 15.6875 C 31.746094 13.78125 28.914063 12.730469 25.996094 12.730469 C 19.230469 12.730469 13.722656 18.234375 13.722656 25 C 13.722656 31.765625 19.230469 37.269531 25.996094 37.269531 C 30.875 37.269531 34.730469 34.777344 36.546875 30.53125 L 24.996094 30.53125 L 24.996094 20.175781 L 47.546875 20.207031 L 47.714844 21 C 48.890625 26.582031 47.949219 34.792969 43.183594 40.667969 C 39.238281 45.53125 33.457031 48 25.996094 48 Z"
+              ></path>
+            </svg>
+          </div>
+        </div>
+
+        <div class="basis-4/12">
+          <!-- Contact Info -->
+          <div class="text-white">
+            <span class="flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                class="size-6"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M1.5 4.5a3 3 0 0 1 3-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 0 1-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 0 0 6.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 0 1 1.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 0 1-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5Z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+
+              <p class="ml-2">(905) 471-2920</p>
+            </span>
+
+            <span class="mt-4 flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                class="size-6"
+              >
+                <path
+                  d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z"
+                />
+                <path
+                  d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z"
+                />
+              </svg>
+
+              <p class="ml-2">rolansauto@hotmail.com</p>
+            </span>
+
+            <span class="mt-4 flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                class="size-6"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="m11.54 22.351.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+
+              <p class="ml-2">7 Heritage Rd. Markham ON</p>
+            </span>
+          </div>
+
+          <hr class="border-1 my-8 h-px bg-gray-200" />
+
+          <!-- Hours of Op -->
+          <div class="text-white">
+            <span class="flex justify-between">
+              <p>Monday - Friday</p>
+              <p>9AM - 6PM</p>
+            </span>
+
+            <span class="flex justify-between">
+              <p>Saturday</p>
+              <p>9AM - 1PM</p>
+            </span>
+
+            <span class="flex justify-between">
+              <p>Sunday</p>
+              <p>Closed</p>
+            </span>
+          </div>
+        </div>
+
+        <!-- Map -->
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2876.293595531578!2d-79.28262668421762!3d43.87046824637143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d67195462a81%3A0xc9eaa148f76f2bc0!2s7%20Heritage%20Rd%2C%20Markham%2C%20ON%20L3P%201M3!5e0!3m2!1sen!2sca!4v1617499564073!5m2!1sen!2sca"
+          class="basis-4/12"
+          loading="lazy"
+        ></iframe>
+      </div>
+    </section>

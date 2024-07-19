@@ -1,0 +1,16 @@
+{
+  "name": "RolansAutoPerformance-v2",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/HimalP/RolansAutoPerformance-v2.git",
+  "author": "Himal <HimalHPatel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/style.css -o ./dist/index.css --watch"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.13",
+    "tailwindcss": "^3.4.3"
+  }
+}

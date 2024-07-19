@@ -820,6 +820,10 @@ video {
   height: 24rem;
 }
 
+.h-14{
+  height: 3.5rem;
+}
+
 .w-1\/2{
   width: 50%;
 }
@@ -847,6 +851,18 @@ video {
 
 .w-8{
   width: 2rem;
+}
+
+.w-12{
+  width: 3rem;
+}
+
+.w-1{
+  width: 0.25rem;
+}
+
+.w-14{
+  width: 3.5rem;
 }
 
 .max-w-sm{
@@ -1041,6 +1057,11 @@ video {
 .bg-emerald-50{
   --tw-bg-opacity: 1;
   background-color: rgb(236 253 245 / var(--tw-bg-opacity));
+}
+
+.bg-red-50{
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 242 242 / var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-r{
